@@ -42,7 +42,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Configuring the callback URL for the intent after OAuth in Twitter Developers was a little ambiguous at first, but after that the OAuth login was good to go.
 
 ## Open-source libraries used
 
