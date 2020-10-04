@@ -16,4 +16,8 @@ public class User {
         user.profileImageUrl = jsonObject.getString("profile_image_url_https");
         return user;
     }
+
+    public static String getHandle(String screenName) {
+        return "@" + screenName;
+    }
 }
